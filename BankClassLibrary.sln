@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankClassLibrary", "BankClassLibrary\BankClassLibrary.csproj", "{6796EA33-85C0-42B3-BD77-5BA6D180DE99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "demo\demo.csproj", "{02EC9D33-0213-422F-8B2B-80167FB6ED85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoForm", "DemoForm\DemoForm.csproj", "{CF0F0E11-892C-418D-A830-885E3C00E339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6796EA33-85C0-42B3-BD77-5BA6D180DE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6796EA33-85C0-42B3-BD77-5BA6D180DE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6796EA33-85C0-42B3-BD77-5BA6D180DE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6796EA33-85C0-42B3-BD77-5BA6D180DE99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02EC9D33-0213-422F-8B2B-80167FB6ED85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EC9D33-0213-422F-8B2B-80167FB6ED85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EC9D33-0213-422F-8B2B-80167FB6ED85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EC9D33-0213-422F-8B2B-80167FB6ED85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0F0E11-892C-418D-A830-885E3C00E339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0F0E11-892C-418D-A830-885E3C00E339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0F0E11-892C-418D-A830-885E3C00E339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0F0E11-892C-418D-A830-885E3C00E339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CEA19D5-4877-4481-9A7A-F7FBFAD3AF14}
+	EndGlobalSection
+EndGlobal
